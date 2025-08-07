@@ -42,15 +42,15 @@ html {
 }
 
 body {
-  background-color: #5050f5;
+  background-color: #ff914d;
   background: -webkit-gradient(
     linear,
     left top,
     left bottom,
-    from(#9d2bf3),
-    to(#5050f5)
+    from(#ffbd59),
+    to(#ff914d)
   );
-  background: linear-gradient(#9d2bf3, #5050f5);
+  background: linear-gradient(#ffbd59, #ff914d);
   margin: 0;
   width: 100%;
   height: 100%;
@@ -162,7 +162,7 @@ input[type="submit"],
   line-height: 1.2;
   border: 0;
   outline: 0;
-  border: 2px solid #5050f5;
+  border: 2px solid #ff914d;
   color: #f5f5f5;
   text-shadow: none;
   background-color: transparent;
@@ -193,9 +193,9 @@ input[type="button"]:hover,
 input[type="button"]:focus,
 input[type="submit"]:hover,
 input[type="submit"]:focus {
-  background-color: #5050f5;
+  background-color: #ff914d;
   color: #fff;
-  border: 2px solid #5050f5;
+  border: 2px solid #ff914d;
 }
 
 .btn-secondary {
@@ -253,7 +253,7 @@ input[type="submit"]:focus {
   width: 52px;
   height: 52px;
   margin: 100px auto;
-  background-color: #5050f5;
+  background-color: #ff914d;
 
   border-radius: 100%;
   -webkit-animation: sk-scaleout 1s infinite ease-in-out;
@@ -333,7 +333,7 @@ input[type="submit"]:focus {
   ul.main-menu a.active,
   ul.main-menu a:focus,
   ul.main-menu a:hover {
-    color: #5050f5;
+    color: #ff914d;
   }
 
   ul.main-menu .menu-icon {
@@ -348,7 +348,7 @@ input[type="submit"]:focus {
     opacity: 0;
     color: #fff;
     padding: 2px 10px;
-    background-color: #5050f5;
+    background-color: #ff914d;
     white-space: nowrap;
     right: 0;
     top: -50%;
@@ -401,7 +401,7 @@ input[type="submit"]:focus {
 }
 
 .lmpixels-arrows-nav div:hover {
-  color: #5050f5;
+  color: #ff914d;
 }
 /* --- End LMPixels Arrow Nav --- */
 
@@ -516,7 +516,7 @@ input[type="submit"]:focus {
 
 .header-buttons .btn-primary:hover {
   background-color: #fff;
-  color: #5050f5;
+  color: #ff914d;
   border-color: #fff;
 }
 
@@ -612,7 +612,7 @@ input[type="submit"]:focus {
 }
 
 .ps:hover > .ps__scrollbar-y-rail:hover > .ps__scrollbar-y {
-  background-color: #5050f5;
+  background-color: #ff914d;
 }
 
 .ps > .ps__scrollbar-y-rail {
@@ -631,7 +631,7 @@ input[type="submit"]:focus {
 }
 
 .ps:hover.ps--in-scrolling.ps--y > .ps__scrollbar-y-rail > .ps__scrollbar-y {
-  background-color: #5050f5;
+  background-color: #ff914d;
 }
 /* --- End Custom ScrollBar Customization --- */
 
@@ -650,7 +650,7 @@ input[type="submit"]:focus {
 }
 
 .page-title h2 span {
-  color: #5050f5;
+  color: #ff914d;
 }
 
 .page-title:after {
@@ -663,22 +663,22 @@ input[type="submit"]:focus {
   width: 50px;
   background-image: -webkit-repeating-radial-gradient(
     center center,
-    #5050f5,
-    #5050f5 1px,
+    #ff914d,
+    #ff914d 1px,
     transparent 0px,
     transparent 100%
   );
   background-image: -moz-repeating-radial-gradient(
     center center,
-    #5050f5,
-    #5050f5 1px,
+    #ff914d,
+    #ff914d 1px,
     transparent 0px,
     transparent 100%
   );
   background-image: -ms-repeating-radial-gradient(
     center center,
-    #5050f5,
-    #5050f5 1px,
+    #ff914d,
+    #ff914d 1px,
     transparent 0px,
     transparent 100%
   );
@@ -742,7 +742,7 @@ textarea.form-control:focus {
   top: 0;
   opacity: 0;
   background: transparent;
-  border: 2px solid #5050f5;
+  border: 2px solid #ff914d;
   border-right-width: 0;
   height: 100%;
   -webkit-transition: all 0.3s ease-in-out;
@@ -813,7 +813,7 @@ textarea.form-control:focus {
 }
 
 .form-group-with-icon.form-group-focus i {
-  color: #5050f5;
+  color: #ff914d;
 }
 
 .form-group.form-group-w-checkbox {
@@ -867,7 +867,7 @@ textarea.form-control:focus {
 
 .form-group .form-control:focus ~ label,
 .form-group.form-group-focus .form-control ~ label {
-  color: #5050f5;
+  color: #ff914d;
   top: -20px;
   left: 0;
   z-index: 1;
@@ -906,7 +906,7 @@ input[type="text"],
 }
 
 .block-title h3 span {
-  color: #5050f5;
+  color: #ff914d;
 }
 
 .block-title:after {
@@ -919,22 +919,22 @@ input[type="text"],
   width: 30px;
   background-image: -webkit-repeating-radial-gradient(
     center center,
-    #5050f5,
-    #5050f5 1px,
+    #ff914d,
+    #ff914d 1px,
     transparent 0px,
     transparent 100%
   );
   background-image: -moz-repeating-radial-gradient(
     center center,
-    #5050f5,
-    #5050f5 1px,
+    #ff914d,
+    #ff914d 1px,
     transparent 0px,
     transparent 100%
   );
   background-image: -ms-repeating-radial-gradient(
     center center,
-    #5050f5,
-    #5050f5 1px,
+    #ff914d,
+    #ff914d 1px,
     transparent 0px,
     transparent 100%
   );
@@ -986,7 +986,7 @@ input[type="text"],
 }
 
 .info-list .title {
-  color: #5050f5;
+  color: #ff914d;
   margin-right: 5px;
   font-weight: 600;
 }
@@ -1014,7 +1014,7 @@ input[type="text"],
 .info-block-w-icon i {
   position: relative;
   font-size: 42px;
-  color: #5050f5;
+  color: #ff914d;
   opacity: 0.7;
 }
 /* --- End Info block with Icon --- */
@@ -1043,7 +1043,7 @@ input[type="text"],
 .lm-info-block i {
   position: relative;
   font-size: 33px;
-  color: #5050f5;
+  color: #ff914d;
   z-index: 1;
 }
 
@@ -1058,7 +1058,7 @@ input[type="text"],
   font-weight: 400;
   display: block;
   margin: 10px 0;
-  color: #5050f5;
+  color: #ff914d;
 }
 
 .lm-info-block .lm-info-block-value:empty {
@@ -1100,7 +1100,7 @@ input[type="text"],
   font-size: 30px;
   right: 0;
   top: 7px;
-  color: #5050f5;
+  color: #ff914d;
   opacity: 0.5;
 }
 
@@ -1203,8 +1203,8 @@ input[type="text"],
 .testimonials.owl-carousel .owl-nav .owl-next:hover,
 .clients.owl-carousel .owl-nav .owl-prev:hover,
 .clients.owl-carousel .owl-nav .owl-next:hover {
-  background-color: #5050f5;
-  border-color: #5050f5;
+  background-color: #ff914d;
+  border-color: #ff914d;
   color: #fff;
 }
 /* --- End of Sliders Nav --- */
@@ -1263,7 +1263,7 @@ input[type="text"],
   position: absolute;
   margin-left: -8px;
   border-radius: 10px;
-  background-color: #5050f5;
+  background-color: #ff914d;
   opacity: 0.25;
   z-index: 0;
 }
@@ -1278,7 +1278,7 @@ input[type="text"],
   margin-left: -4px;
   background-color: #222;
   border-radius: 5px;
-  border: 2px solid #5050f5;
+  border: 2px solid #ff914d;
   z-index: 1;
 }
 
@@ -1335,7 +1335,7 @@ input[type="text"],
   position: relative;
   display: inline-block;
   background-color: #222;
-  border: 1px solid #5050f5;
+  border: 1px solid #ff914d;
   -moz-border-radius: 8px;
   -webkit-border-radius: 8px;
   border-radius: 8px;
@@ -1350,7 +1350,7 @@ input[type="text"],
 .skills-second-style .skill-container:before {
   content: "";
   position: absolute;
-  background-color: #5050f5;
+  background-color: #ff914d;
 }
 
 .skills-second-style .skill-value {
@@ -1363,7 +1363,7 @@ input[type="text"],
 }
 
 .skills-second-style .skill-percentage {
-  background-color: #5050f5;
+  background-color: #ff914d;
   border: 2px solid #222;
   -moz-border-radius: 9px;
   -webkit-border-radius: 9px;
@@ -1458,7 +1458,7 @@ input[type="text"],
 
 .knowledges li {
   display: inline-block;
-  background-color: #5050f5;
+  background-color: #ff914d;
   border-radius: 3px;
   color: #fff;
   padding: 1px 10px;
@@ -1680,7 +1680,7 @@ input[type="text"],
   width: 30px;
   height: 30px;
   background-color: #222;
-  color: #5050f5;
+  color: #ff914d;
   text-align: center;
   line-height: 30px;
   -webkit-transition: all 0.3s ease-in-out;
@@ -1937,7 +1937,7 @@ input[type="text"],
 }
 
 .ajax-page-nav > div.nav-item a:hover {
-  background-color: #5050f5;
+  background-color: #ff914d;
   color: #fff;
 }
 
@@ -1996,7 +1996,7 @@ input[type="text"],
 }
 
 .project-general-info .fa {
-  color: #5050f5;
+  color: #ff914d;
   margin-right: 5px;
 }
 
@@ -2028,8 +2028,8 @@ input[type="text"],
 
 .share-buttons a:hover {
   color: #fff;
-  background-color: #5050f5;
-  border-color: #5050f5;
+  background-color: #ff914d;
+  border-color: #ff914d;
 }
 
 .share-buttons a:last-child {
@@ -2457,7 +2457,7 @@ blockquote {
     height: 48px;
     line-height: 46px;
     text-align: center;
-    background-color: #5050f5;
+    background-color: #ff914d;
     right: 10px;
     font-size: 19px;
     top: 10px;
@@ -2546,7 +2546,7 @@ blockquote {
     right: 10px;
     bottom: 10px;
     padding: 5px 0;
-    border: 2px solid #5050f5;
+    border: 2px solid #ff914d;
   }
 
   .lmpixels-arrows-nav div {
@@ -2727,7 +2727,7 @@ blockquote {
   content: "";
   height: 2px;
   margin-top: 0;
-  background-color: #5050f5;
+  background-color: #ff914d;
   position: absolute;
   left: 0;
   bottom: -3px;
@@ -2945,7 +2945,7 @@ blockquote {
 .fun-fact i {
   position: relative;
   font-size: 33px;
-  color: #5050f5;
+  color: #ff914d;
   margin-bottom: 6px;
   width: 33px;
   height: 33px;
@@ -2956,7 +2956,7 @@ blockquote {
   font-weight: 400;
   display: block;
   margin: 10px 0;
-  color: #5050f5;
+  color: #ff914d;
 }
 
 .fun-fact-block-value {
